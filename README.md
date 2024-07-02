@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Carlos LLamosas</h1>
 <h3 align="center">A passionate Full-Stack developer from Spain</h3>
 
+<p>I am Carlos Llamosas López, a passionate technology professional transitioning from the role of elevator maintenance technician to full stack development. My 18+ years of experience in the maintenance industry have cultivated a strong understanding of complex problem-solving, attention to detail, and a commitment to quality—skills that are directly transferable to software development.
+
+Throughout my career as a maintenance technician, I have acquired technical competencies and practical skills that I now apply in the field of web development. My ability to diagnose and resolve technical faults translates perfectly into debugging and code optimization, while my experience managing complex systems is reflected in my methodical and structured approach to application development.
+
+Currently, I possess skills in key full stack development technologies, including HTML, CSS, JavaScript, React, Bootstrap, Python, and Flask. My training and personal projects in web development have allowed me to create dynamic and efficient applications, always focusing on user experience and scalability.
+
+I am excited to combine my technical maintenance experience with my newfound passion for web development, and I am seeking opportunities where I can leverage my unique skills to create innovative and robust solutions. I am confident that my background in technical problem-solving and my ability to adapt to new technologies enable me to offer significant value in the field of software development.</p>
+
 - 📫 How to reach me **cllamosas@pm.me**
   
 ![desarrollo-web-min](https://github.com/Grokhen/Grokhen/assets/152092079/976ed6c8-91b7-4376-9693-fe94af0b1384)
