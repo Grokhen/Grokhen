@@ -2,10 +2,12 @@
 <h3 align="center">A passionate Full-Stack developer from Spain</h3>
 
 - 📫 How to reach me **cllamosas@pm.me**
+  
+![desarrollo-web-min](https://github.com/Grokhen/Grokhen/assets/152092079/976ed6c8-91b7-4376-9693-fe94af0b1384)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carlos llamosas lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos llamosas lopez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carlos-llamosas-lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos llamosas lopez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
